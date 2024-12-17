@@ -1,4 +1,3 @@
-Vai até o DemoAplication da aplicação e clique para rodar.
 # Java - API Spring Boot
 
 - **Rotas para criação de fichas** para organizar seus personagens.  
